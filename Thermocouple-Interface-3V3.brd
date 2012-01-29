@@ -121,8 +121,7 @@
 <wire x1="38.1" y1="0" x2="38.1" y2="31.75" width="0.254" layer="20"/>
 <wire x1="38.1" y1="31.75" x2="0" y2="31.75" width="0.254" layer="20"/>
 <text x="7.62" y="28.702" size="1.27" layer="21">Thermocouple Interface</text>
-<text x="11.303" y="1.651" size="1.016" layer="21" font="vector">ryanjmclaughlin.com</text>
-<text x="13.97" y="26.67" size="1.016" layer="21">V1.3 09-2011</text>
+<text x="13.97" y="26.67" size="1.016" layer="21">V1.3 01-2012</text>
 <text x="33.02" y="19.05" size="1.27" layer="21">SO</text>
 <text x="33.02" y="21.59" size="1.27" layer="21">CS</text>
 <text x="33.02" y="16.51" size="1.27" layer="21">SCK</text>

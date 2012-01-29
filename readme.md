@@ -44,7 +44,7 @@ Versions
 ###Version 1.3
 
 * Initial release under Eagle 6.1 on Github
-* PCB Production dates: 09-2011
+* PCB Production dates: 09-2011, 01-2012
 
 This revision changed from the MAX6675 to the new MAX31855 chip.  It has more accuracy and a better temperature range.  The footprint and fixturing holes have remained the same, but the board layout modified to make a better connection between the thermocouple connector and the MAX31855.  They were move closer together and larger traces between the chip and connector.  This should allow for better CJC, and more accuracy.  The board comes fully assembled along with a male and female header, and a 4050 level shifter chip. <small>Licensed under OSHW</small>
 
